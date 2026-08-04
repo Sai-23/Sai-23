@@ -168,25 +168,10 @@ I'm a **full-stack developer** specializing in **MERN stack** and **blockchain t
 <img src="https://streak-stats.demolab.com?user=Sai-23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### 💻 Coding Activity (Waka Time)
-<img src="https://wakatime.com/badge/user/your-waka-user-id.svg" alt="Waka Time Badge" />
 
-```
 <!--START_SECTION:waka-->
-Replace with your Waka Time stats
+
 <!--END_SECTION:waka-->
-```
-
-> **How to enable Waka Time stats:**
-> 1. Install [Waka Time](https://wakatime.com) extension for your code editor
-> 2. Connect your GitHub to Waka Time
-> 3. Use this in your README:
-> ```markdown
-> <!--START_SECTION:waka-->
-> <!--END_SECTION:waka-->
-> ```
-> 4. The stats will auto-update showing your coding breakdown!
-
-**Shows:** Programming languages used, daily coding time, projects worked on, and coding streak
 
 </div>
 
