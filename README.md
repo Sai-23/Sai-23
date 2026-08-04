@@ -30,7 +30,7 @@
 <ul>
 <h2 align="center">📫 Reach Me</h2><br>
   <li>📧 Reach me at: <a href="mailto:saibhot23@gmail.com">saibhot23@gmail.com</a></li><br>
-  <li>📄 Check out my <a href="[https://drive.google.com/file/d/1s3uOBxU3CL6hEr8ratEQUvnxBiRxgVR9/view?usp=drive_link](https://drive.google.com/file/d/1Il3Jc3jYv8bF0p1ylv9tGaKDroRoOhVO/view?usp=sharing)">Resume</a></li>
+  <li>📄 Check out my <a href="https://drive.google.com/file/d/1Il3Jc3jYv8bF0p1ylv9tGaKDroRoOhVO/view?usp=sharing">Resume</a></li>
 </ul>
 
 <table align="center">
