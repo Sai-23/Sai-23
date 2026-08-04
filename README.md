@@ -1,5 +1,5 @@
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=%7BHello+World+%2C+Sai+here+%F0%9F%8C%9F%7D;%7BFull+Stack+Developer%E2%9A%A1%7D" alt="Typing SVG">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=%7BHello+World+%2C+Sai+here+%F0%9F%8C%9F%7D;%7BFull+Stack+Developer%E2%9A%A1%7D" alt="Typing SVG">
 </div>
 <br>
 <div align="center">
@@ -12,11 +12,11 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadil0307&style=flat-square&color=blue" alt="You are Visitor" />
+  <img src="https://komarev.com/ghpvc/?username=Sai-23&style=flat-square&color=blue" alt="You are Visitor" />
 </div>
 
 <br>
@@ -97,29 +97,28 @@
 
 <h2 align="center">📊 Most Used Language</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil0307&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="GitHub Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sai-23&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="GitHub Summary"/>
 </div>
 
 <br>
 
 <h2 align="center">🔥 GitHub Stats</h2>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadil0307&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Mohd Aadil" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sai-23&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Sai Bhot" />
 </div>
 
 <br>
 
-
 <h2 align="center">⚡ GitHub Streak</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=tokyonight" alt="GitHub Summary"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sai-23&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 <br>
 
 <h2 align="center">📌 GitHub User Content</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadil0307&theme=radical" alt="GitHub Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sai-23&theme=radical" alt="GitHub Summary"/>
 </div>
 
 <br>
