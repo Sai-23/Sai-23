@@ -3,10 +3,10 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/aadil0307" target="_blank">
-    <img alt="Mohd Aadil | LinkedIn" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/sai-bhot-a30aab235" target="_blank">
+    <img alt="Sai Bhot | LinkedIn" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp; 
-  <a href="mailto:aadilshaikh2164@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
+  <a href="mailto:saibhot23@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
     <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
   </a>
 </div>
@@ -29,8 +29,8 @@
 
 <ul>
 <h2 align="center">📫 Reach Me</h2><br>
-  <li>📧 Reach me at: <a href="mailto:aadilshaikh2164@gmail.com">aadilshaikh2164@gmail.com</a></li><br>
-  <li>📄 Check out my <a href="https://drive.google.com/file/d/1s3uOBxU3CL6hEr8ratEQUvnxBiRxgVR9/view?usp=drive_link">Resume</a></li>
+  <li>📧 Reach me at: <a href="mailto:saibhot23@gmail.com">saibhot23@gmail.com</a></li><br>
+  <li>📄 Check out my <a href="[https://drive.google.com/file/d/1s3uOBxU3CL6hEr8ratEQUvnxBiRxgVR9/view?usp=drive_link](https://drive.google.com/file/d/1Il3Jc3jYv8bF0p1ylv9tGaKDroRoOhVO/view?usp=sharing)">Resume</a></li>
 </ul>
 
 <table align="center">
