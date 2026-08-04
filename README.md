@@ -197,7 +197,7 @@ I'm always open to:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+decentralized+apps+together+🚀" alt="Closing Message" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+For+Visiting!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
