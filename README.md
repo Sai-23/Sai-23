@@ -158,12 +158,6 @@ I'm a **full-stack developer** specializing in **MERN stack** and **blockchain t
 
 <div align="center">
 
-### Most Used Languages
-<img src="https://streak-stats.demolab.com?user=Sai-23&theme=tokyonight&hide_border=true" />
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Sai-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
 ### Contribution Streak
 <img src="https://streak-stats.demolab.com?user=Sai-23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
