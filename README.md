@@ -1,271 +1,231 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sai+Bhot;Full+Stack+Developer;Web3+%26+Blockchain+Builder" alt="Typing SVG">
+</div>
 
-# Hi 👋, I'm Sai Sanjeev Bhot
+<div align="center">
+  <p>
+    🚀 Full Stack Developer | Web3 Enthusiast | 3x Hackathon Winner<br>
+    📍 India (IST/UTC+5:30) | 🎓 BTech Computer Science (Graduating May 2026)<br>
+    <strong>Seeking internship/entry-level roles | Specialized in MERN Stack & Blockchain</strong>
+  </p>
+</div>
 
-### Full Stack Developer • Blockchain Enthusiast • Problem Solver • Hackathon Winner
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-bhot-a30aab235)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saibhot23@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://sai-23.github.io/Sai_Portfolio/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sai-23)
+  
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Blockchain+Developer;Open+Source+Enthusiast;Hackathon+Winner;Future+MS+Student+in+Germany🇩🇪" />
-
-<img src="https://komarev.com/ghpvc/?username=Sai-23&label=Profile%20Views&color=0e75b6&style=flat" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sai-23&style=flat-square&color=0077B5" alt="Profile Views" />
 </div>
 
 ---
 
-# 🚀 About Me
+## 💼 About Me
 
-💻 Passionate Full Stack Developer who loves building scalable web applications and decentralized applications.
+I'm a **full-stack developer** specializing in **MERN stack** and **blockchain technologies**. With hands-on experience in web development, data analytics, and Android development, I've built production-ready applications and won multiple hackathons. I'm passionate about creating scalable solutions and exploring Web3 innovations.
 
-🌱 Currently improving my skills in
-
-- Data Structures & Algorithms
-- System Design
-- Blockchain Development
-- React Ecosystem
-- Backend Development
-- AI Powered Applications
-
-🏆 Highlights
-
-- 🥈 2nd Runner Up - ByteCamp Hackathon (215 Teams)
-- 🥈 1st Runner Up - WebWeavers Hackathon
-- 🏅 Finalist - Hack To Crack 2.0
-- 🏅 Finalist - Enigma 3.0
-- 🏅 Finalist - CodeByte 1.0
-- 🥈 Runner Up - TekZone Website Competition
-
-🎯 Goal
-
-Pursuing MS in Germany (Summer 2027) while becoming a strong Software Engineer focused on scalable systems and Web3.
+**Quick Facts:**
+- 🎯 Expertise: React.js | Node.js | Express.js | MongoDB | Solidity & Smart Contracts
+- 🏆 Track Record: 3x Hackathon Winner | 3 Internships (Full Stack, Android Dev, Data Analytics)
+- 🌐 Specialization: Blockchain DApps, NFT Marketplace, Crowdfunding Platforms
+- 💡 Approach: Clean code, problem-solving, continuous learning & shipping
+- 🤝 Open to: Internships, Entry-level roles, Startup opportunities
 
 ---
 
-# 🎓 Education
+## 🚀 Featured Projects
 
-| Qualification | Institute | Score |
-|--------------|-----------|-------|
-| B.E. Computer Science & Engineering (IoT & CSBT) | SIES Graduate School of Technology | **CGPA: 7.84 / 10** |
-| Diploma Computer Engineering | MH Saboo Siddik Polytechnic | 81.71% |
-| SSC | Fatima High School | 81.40% |
+> Click on project names to view live demos or repos
 
----
+### 1. **TickETH – Blockchain Ticketing System**
+   - **GitHub:** [Sai-23/TickETH](#) (Add your repo link)
+   - **Tech Stack:** Solidity | Thirdweb | React.js | Node.js | Express.js | MongoDB
+   - **Description:** Decentralized ticketing marketplace with NFT-based tickets and fixed resale constraints to eliminate secondary market fraud. Full-stack DApp with smart contracts.
+   - **Key Achievement:** Won **ByteCamp Hackathon** (2nd Runner Up out of 215 teams) | Deployed on blockchain | NFT minting & marketplace
+   - **[View Live](#) | [See Code](#)**
 
-# 💼 Experience
+### 2. **HealthChain – Blockchain Crowdfunding Platform**
+   - **GitHub:** [Sai-23/HealthChain](#) (Add your repo link)
+   - **Tech Stack:** Solidity | Thirdweb | React.js | Express.js | MongoDB
+   - **Description:** Decentralized healthcare crowdfunding platform using smart contracts. Enables secure, transparent campaign management for medical fundraising globally.
+   - **Key Achievement:** **WebWeavers Hackathon Winner** (1st Runner Up) | Full-stack DApp architecture | Smart contract integration
+   - **[View Live](#) | [See Code](#)**
 
-### 📊 Data Analytics Intern
-**Trainity**
-
-- Python
-- SQL
-- Tableau
-- Data Analysis
-
----
-
-### 📱 Android Developer Intern
-**Entwicklera**
-
-- Java
-- XML
-- Sensor Programming
-
-Developed **StepUp**, a Pedometer + BMI Monitor with over **90% accuracy**.
+### 3. **MS Interio – Interior Designer Portfolio Website**
+   - **GitHub:** [Sai-23/ms-interio](#) (Add your repo link)
+   - **Live Site:** [msinterio.co](https://msinterio.co)
+   - **Tech Stack:** HTML | CSS | Bootstrap | jQuery | PHP | MySQL
+   - **Description:** Professional, responsive website for interior designer showcase. Features portfolio gallery, service listings, and client contact integration.
+   - **Key Achievement:** Live in production | Fully responsive | jQuery interactivity | PHP backend
+   - **[View Live](https://msinterio.co) | [See Code](#)**
 
 ---
 
-### 🌐 Full Stack Web Developer Intern
-**SamartByte IT Solutions**
+## 🛠️ Tech Stack
 
-Developed a complete dynamic Fees Management System using
-
-- PHP
-- MySQL
-- Bootstrap
-
----
-
-# 🚀 Featured Projects
-
-## 🎟 TickETH
-
-Blockchain based NFT Ticketing Platform
-
-### Tech
-
-React • Node • Express • MongoDB • Solidity • Thirdweb
-
-### Features
-
-- NFT Minting
-- Marketplace
-- Smart Contract Based Ticket Ownership
-- Fixed Resale Constraints
-
----
-
-## ❤️ HealthChain
-
-Blockchain Powered Healthcare Crowdfunding
-
-### Tech
-
-React • Solidity • Thirdweb • MongoDB • Express
-
-### Features
-
-- Decentralized Fundraising
-- Smart Contracts
-- Secure Campaign Management
-
----
-
-## 🏠 MS Interio
-
-Responsive Interior Designer Website
-
-### Tech
-
-PHP • Bootstrap • JQuery • MySQL
-
-🌍 Live Website
-
-https://msinterio.co
+<table align="center">
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=expressjs" alt="Express" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle DB" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Web3 & Blockchain</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/Thirdweb-1ECBFF?style=flat&logo=thirdweb&logoColor=white" alt="Thirdweb" height="40"/>
+      <img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile & Others</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+## 🏆 Achievements & Recognition
 
-## Languages
+### 🥇 Hackathon Winners
+- **ByteCamp Hackathon** - 🏅 **2nd Runner Up** (Winners) out of 215 teams
+  - Built: TickETH (Blockchain Ticketing System with NFT Marketplace)
+  - Tech: Solidity, Thirdweb, React, Node.js
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
+- **WebWeavers Hackathon** - 🏅 **1st Runner Up** (Winners)
+  - Built: HealthChain (Blockchain Crowdfunding DApp)
+  - Tech: Solidity, React, Smart Contracts
 
----
+- **Hack to Crack 2.0** - 🏅 **Finalist** (2nd in Domain)
+  - Demonstrated innovative problem-solving
 
-## Frontend
+- **Enigma 3.0** - 🏅 **Finalist** (Top 10 out of 60 teams)
 
-React
+- **CodeByte 1.0** - 🏅 **Finalist** (Top 5 out of 40 teams)
 
-HTML
+- **TekZone** (Website Making Competition) - 🏅 **1st Runner Up**
 
-CSS
+### 💼 Professional Experience
+- **Data Analytics Intern** @ Trainity (June – Sept 2024) | Python, SQL, Tableau
+- **Android Developer Intern** @ Entwicklera (Dec 2023 – Feb 2024) | Built StepUp Pedometer/BMI Monitor (90-95% accuracy)
+- **Full Stack Web Dev Intern** @ SamartByte IT Solutions (May – July 2022) | Fees Management System
 
-Bootstrap
-
-JavaScript
-
-jQuery
-
----
-
-## Backend
-
-Node.js
-
-Express.js
-
-PHP
-
-MongoDB
-
-MySQL
-
-OracleDB
+### 🎓 Education
+- **Bachelor of Engineering (CSE with IoT & CSBT)** | SIES Graduate School Of Technology, Nerul | Graduating May 2026
+- **Diploma in Computer Engineering** | M.H. Saboo Siddik Polytechnic, Mumbai | 81.71%
+- **SSC** | Fatima High School, Thane | 81.40%
 
 ---
 
-## Tools
-
-Git
-
-GitHub
-
-Figma
-
-Tableau
-
-Flutter
-
-Thirdweb
-
-VS Code
-
----
-
-# 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sai-23&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sai-23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-23&theme=tokyonight&hide_border=true"/>
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Sai-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-</div>
+### Contribution Streak
+<img src="https://streak-stats.demolab.com?user=Sai-23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
----
+### 💻 Coding Activity (Waka Time)
+<img src="https://wakatime.com/badge/user/your-waka-user-id.svg" alt="Waka Time Badge" />
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 Coding Activity
-
+```
 <!--START_SECTION:waka-->
+Replace with your Waka Time stats
 <!--END_SECTION:waka-->
+```
+
+> **How to enable Waka Time stats:**
+> 1. Install [Waka Time](https://wakatime.com) extension for your code editor
+> 2. Connect your GitHub to Waka Time
+> 3. Use this in your README:
+> ```markdown
+> <!--START_SECTION:waka-->
+> <!--END_SECTION:waka-->
+> ```
+> 4. The stats will auto-update showing your coding breakdown!
+
+**Shows:** Programming languages used, daily coding time, projects worked on, and coding streak
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 💬 Let's Connect!
+
+I'm always open to:
+- 💼 Internship & entry-level opportunities (especially MERN + Web3 roles)
+- 🤝 Collaborating on innovative projects
+- 📚 Learning from experienced developers
+- 🚀 Building blockchain & Web3 applications
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sai-23&theme=tokyonight&row=1&column=7"/>
+**📱 Phone:** [+91 7058444955](tel:+917058444955)  
+**📧 Email:** [saibhot23@gmail.com](mailto:saibhot23@gmail.com)  
+**💼 LinkedIn:** [sai-bhot-a30aab235](https://www.linkedin.com/in/sai-bhot-a30aab235)  
+**🌐 Portfolio:** [sai-23.github.io/Sai_Portfolio](https://sai-23.github.io/Sai_Portfolio/)  
+**🐙 GitHub:** [@Sai-23](https://github.com/Sai-23)  
+**📄 Resume:** Available upon request
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+decentralized+apps+together+🚀" alt="Closing Message" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sai-23&theme=tokyo-night"/>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Sai-23">
-GitHub
-</a>
-
-•
-
-<a href="https://linkedin.com/in/sai-bhot-a30aab235">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:saibhot23@gmail.com">
-Email
-</a>
-
-</p>
+<div align="center">
+  <p><strong>⭐ If you find my work interesting, a star on my repos would be amazing!</strong></p>
+  <p><em>"Code today, innovate tomorrow" 💻</em></p>
+</div>
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Build. Learn. Repeat."*
-
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&duration=5000&pause=2000&color=888&center=true&vCenter=true&width=400&lines=Currently+learning+Web3+%26+Blockchain;Open+to+exciting+internship+offers" alt="Status" />
 </div>
+
+*Last updated: August 2026 | Made with ❤️ by Sai Bhot*
