@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sai+Bhot;Full+Stack+Developer;Building+amazing+web+experiences" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sai+Bhot;Full+Stack+Developer;Web3+%26+Blockchain+Builder" alt="Typing SVG">
 </div>
 
 <div align="center">
   <p>
-    🚀 Passionate Full Stack Developer | React & Node.js Enthusiast | Web3 Explorer<br>
-    📍 India (IST/UTC+5:30) | 🎓 Fresher with drive to learn & ship<br>
-    <strong>Looking for internship/entry-level opportunities to grow & contribute</strong>
+    🚀 Full Stack Developer | Web3 Enthusiast | 3x Hackathon Winner<br>
+    📍 India (IST/UTC+5:30) | 🎓 BTech Computer Science (Graduating May 2026)<br>
+    <strong>Seeking internship/entry-level roles | Specialized in MERN Stack & Blockchain</strong>
   </p>
 </div>
 
@@ -27,13 +27,14 @@
 
 ## 💼 About Me
 
-I'm a **full-stack developer** passionate about building web applications that solve real problems. With expertise in **MERN stack**, responsive **UI/UX**, and emerging **Web3 technologies**, I'm excited to contribute to innovative projects and grow alongside a dynamic team.
+I'm a **full-stack developer** specializing in **MERN stack** and **blockchain technologies**. With hands-on experience in web development, data analytics, and Android development, I've built production-ready applications and won multiple hackathons. I'm passionate about creating scalable solutions and exploring Web3 innovations.
 
 **Quick Facts:**
-- 🎯 Focus: Frontend (React), Backend (Node.js), Full Stack Development
-- 🌐 Also learning: Web3 & Blockchain technologies
-- 💡 Approach: Clean code, user-first thinking, continuous learning
-- 🤝 Open to: Internships, Entry-level roles, Collaboration
+- 🎯 Expertise: React.js | Node.js | Express.js | MongoDB | Solidity & Smart Contracts
+- 🏆 Track Record: 3x Hackathon Winner | 3 Internships (Full Stack, Android Dev, Data Analytics)
+- 🌐 Specialization: Blockchain DApps, NFT Marketplace, Crowdfunding Platforms
+- 💡 Approach: Clean code, problem-solving, continuous learning & shipping
+- 🤝 Open to: Internships, Entry-level roles, Startup opportunities
 
 ---
 
@@ -41,26 +42,27 @@ I'm a **full-stack developer** passionate about building web applications that s
 
 > Click on project names to view live demos or repos
 
-### 1. **[Project Name #1]**
-   - **GitHub:** [Link to repo](#)
-   - **Tech Stack:** React | Node.js | MongoDB | Express
-   - **Description:** Brief 1-2 line pitch about what it does and why it's cool
-   - **Key Achievement:** Deployed live | 50+ stars | Used by X users
+### 1. **TickETH – Blockchain Ticketing System**
+   - **GitHub:** [Sai-23/TickETH](#) (Add your repo link)
+   - **Tech Stack:** Solidity | Thirdweb | React.js | Node.js | Express.js | MongoDB
+   - **Description:** Decentralized ticketing marketplace with NFT-based tickets and fixed resale constraints to eliminate secondary market fraud. Full-stack DApp with smart contracts.
+   - **Key Achievement:** Won **ByteCamp Hackathon** (2nd Runner Up out of 215 teams) | Deployed on blockchain | NFT minting & marketplace
    - **[View Live](#) | [See Code](#)**
 
-### 2. **[Project Name #2]**
-   - **GitHub:** [Link to repo](#)
-   - **Tech Stack:** React | Firebase | Tailwind CSS
-   - **Description:** What problem does this solve? Why should recruiters care?
-   - **Key Achievement:** 100+ commits | Responsive design | PWA enabled
+### 2. **HealthChain – Blockchain Crowdfunding Platform**
+   - **GitHub:** [Sai-23/HealthChain](#) (Add your repo link)
+   - **Tech Stack:** Solidity | Thirdweb | React.js | Express.js | MongoDB
+   - **Description:** Decentralized healthcare crowdfunding platform using smart contracts. Enables secure, transparent campaign management for medical fundraising globally.
+   - **Key Achievement:** **WebWeavers Hackathon Winner** (1st Runner Up) | Full-stack DApp architecture | Smart contract integration
    - **[View Live](#) | [See Code](#)**
 
-### 3. **[Project Name #3]**
-   - **GitHub:** [Link to repo](#)
-   - **Tech Stack:** Full Stack | [Your tech choices]
-   - **Description:** One-liner about the project impact
-   - **Key Achievement:** What makes this project stand out?
-   - **[View Live](#) | [See Code](#)**
+### 3. **MS Interio – Interior Designer Portfolio Website**
+   - **GitHub:** [Sai-23/ms-interio](#) (Add your repo link)
+   - **Live Site:** [msinterio.co](https://msinterio.co)
+   - **Tech Stack:** HTML | CSS | Bootstrap | jQuery | PHP | MySQL
+   - **Description:** Professional, responsive website for interior designer showcase. Features portfolio gallery, service listings, and client contact integration.
+   - **Key Achievement:** Live in production | Fully responsive | jQuery interactivity | PHP backend
+   - **[View Live](https://msinterio.co) | [See Code](#)**
 
 ---
 
@@ -74,8 +76,8 @@ I'm a **full-stack developer** passionate about building web applications that s
       <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" height="40"/>
     </td>
   </tr>
   <tr>
@@ -84,8 +86,9 @@ I'm a **full-stack developer** passionate about building web applications that s
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=expressjs" alt="Express" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="40"/>
     </td>
   </tr>
   <tr>
@@ -93,27 +96,26 @@ I'm a **full-stack developer** passionate about building web applications that s
     <td>
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle DB" height="40"/>
     </td>
   </tr>
   <tr>
     <td><strong>Web3 & Blockchain</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/Thirdweb-1ECBFF?style=flat&logo=thirdweb&logoColor=white" alt="Thirdweb" height="40"/>
       <img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum" width="40" height="40"/>
-      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3.js" height="40"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Tools & Others</strong></td>
+    <td><strong>Mobile & Others</strong></td>
     <td>
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
     </td>
   </tr>
 </table>
@@ -122,18 +124,33 @@ I'm a **full-stack developer** passionate about building web applications that s
 
 ## 🏆 Achievements & Recognition
 
-### 🎓 Certifications
-- [ ] **[Certification Name]** - Platform (Month/Year)
-- [ ] **[Certification Name]** - Platform (Month/Year)
+### 🥇 Hackathon Winners
+- **ByteCamp Hackathon** - 🏅 **2nd Runner Up** (Winners) out of 215 teams
+  - Built: TickETH (Blockchain Ticketing System with NFT Marketplace)
+  - Tech: Solidity, Thirdweb, React, Node.js
 
-### 🥇 Hackathons
-- [ ] **[Hackathon Name]** - **Position/Award** (Organized by X, Year)
-  - Tech used: [Your stack]
-  - Achievement: [Brief desc]
+- **WebWeavers Hackathon** - 🏅 **1st Runner Up** (Winners)
+  - Built: HealthChain (Blockchain Crowdfunding DApp)
+  - Tech: Solidity, React, Smart Contracts
 
-### 🌟 Open Source Contributions
-- [ ] **[Project Name]** - Contributed [feature/fix description] ([Link to PR/contribution](#))
-- [ ] **[Another Project]** - [Your role/contribution]
+- **Hack to Crack 2.0** - 🏅 **Finalist** (2nd in Domain)
+  - Demonstrated innovative problem-solving
+
+- **Enigma 3.0** - 🏅 **Finalist** (Top 10 out of 60 teams)
+
+- **CodeByte 1.0** - 🏅 **Finalist** (Top 5 out of 40 teams)
+
+- **TekZone** (Website Making Competition) - 🏅 **1st Runner Up**
+
+### 💼 Professional Experience
+- **Data Analytics Intern** @ Trainity (June – Sept 2024) | Python, SQL, Tableau
+- **Android Developer Intern** @ Entwicklera (Dec 2023 – Feb 2024) | Built StepUp Pedometer/BMI Monitor (90-95% accuracy)
+- **Full Stack Web Dev Intern** @ SamartByte IT Solutions (May – July 2022) | Fees Management System
+
+### 🎓 Education
+- **Bachelor of Engineering (CSE with IoT & CSBT)** | SIES Graduate School Of Technology, Nerul | Graduating May 2026
+- **Diploma in Computer Engineering** | M.H. Saboo Siddik Polytechnic, Mumbai | 81.71%
+- **SSC** | Fatima High School, Thane | 81.40%
 
 ---
 
@@ -150,37 +167,65 @@ I'm a **full-stack developer** passionate about building web applications that s
 ### Contribution Streak
 <img src="https://streak-stats.demolab.com?user=Sai-23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+### 💻 Coding Activity (Waka Time)
+<img src="https://wakatime.com/badge/user/your-waka-user-id.svg" alt="Waka Time Badge" />
+
+```
+<!--START_SECTION:waka-->
+Replace with your Waka Time stats
+<!--END_SECTION:waka-->
+```
+
+> **How to enable Waka Time stats:**
+> 1. Install [Waka Time](https://wakatime.com) extension for your code editor
+> 2. Connect your GitHub to Waka Time
+> 3. Use this in your README:
+> ```markdown
+> <!--START_SECTION:waka-->
+> <!--END_SECTION:waka-->
+> ```
+> 4. The stats will auto-update showing your coding breakdown!
+
+**Shows:** Programming languages used, daily coding time, projects worked on, and coding streak
+
 </div>
 
 ---
 
 ## 💬 Let's Connect!
 
-I'm always interested in:
-- 💼 Internship & entry-level opportunities
-- 🤝 Collaborating on interesting projects
+I'm always open to:
+- 💼 Internship & entry-level opportunities (especially MERN + Web3 roles)
+- 🤝 Collaborating on innovative projects
 - 📚 Learning from experienced developers
-- 🚀 Exploring new technologies & frameworks
+- 🚀 Building blockchain & Web3 applications
 
 <div align="center">
 
+**📱 Phone:** [+91 7058444955](tel:+917058444955)  
 **📧 Email:** [saibhot23@gmail.com](mailto:saibhot23@gmail.com)  
 **💼 LinkedIn:** [sai-bhot-a30aab235](https://www.linkedin.com/in/sai-bhot-a30aab235)  
 **🌐 Portfolio:** [sai-23.github.io/Sai_Portfolio](https://sai-23.github.io/Sai_Portfolio/)  
-**🐙 GitHub:** [@Sai-23](https://github.com/Sai-23)
+**🐙 GitHub:** [@Sai-23](https://github.com/Sai-23)  
+**📄 Resume:** Available upon request
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+;Let's+build+something+amazing+together+🚀" alt="Closing Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+decentralized+apps+together+🚀" alt="Closing Message" />
 </div>
 
 <div align="center">
-  <p><strong>⭐ If you find my work interesting, consider giving my repos a star! It means a lot.</strong></p>
+  <p><strong>⭐ If you find my work interesting, a star on my repos would be amazing!</strong></p>
+  <p><em>"Code today, innovate tomorrow" 💻</em></p>
 </div>
 
 ---
 
-*Last updated: 2026 | Made with ❤️ by Sai*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&duration=5000&pause=2000&color=888&center=true&vCenter=true&width=400&lines=Currently+learning+Web3+%26+Blockchain;Open+to+exciting+internship+offers" alt="Status" />
+</div>
+
+*Last updated: August 2026 | Made with ❤️ by Sai Bhot*
