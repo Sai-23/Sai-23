@@ -166,9 +166,8 @@ I'm a **full-stack developer** specializing in **MERN stack** and **blockchain t
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   31 mins               ███████████████████▒░░░░░   77.36 %
-Text         7 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-SQL          1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+TypeScript   19 mins               █████████████████████░░░░   83.42 %
+Text         3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
 ```
 
 <!--END_SECTION:waka-->
